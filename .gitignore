@@ -9,3 +9,8 @@
 .DS_Store
 coverage
 *.log
+
+# Environment
+.env
+.env.*
+!.env.example
